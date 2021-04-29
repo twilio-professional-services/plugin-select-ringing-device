@@ -10,7 +10,7 @@ Therefore, there is a dropdown menu in the top menu where the agent can pick the
 
 ## Screenshot
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Selecting Ringing Device](https://raw.githubusercontent.com/twilio-professional-services/plugin-select-ringing-device/main/screenshot/select.gif)
 
 
 ## Pre-Requirements
